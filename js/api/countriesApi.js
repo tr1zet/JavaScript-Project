@@ -17,4 +17,4 @@ export async function fetchCountries() {
     console.error(error);
     throw error;
   }
-}4
+}
