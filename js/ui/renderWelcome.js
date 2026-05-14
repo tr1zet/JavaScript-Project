@@ -22,7 +22,7 @@ export function renderWelcome(app, startApp) {
     </div>
   `;
 
-  // Добавляем стили только для страницы приветствия
+  
   const style = document.createElement('style');
   style.textContent = `
     .welcome-wrapper {
