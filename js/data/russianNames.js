@@ -196,7 +196,6 @@ export const russianNames = {
   'Yemen': 'Йемен',
   'Zambia': 'Замбия',
   'Zimbabwe': 'Зимбабве',
-  // ДОБАВЛЕННЫЕ СТРАНЫ (которых не хватало):
   'American Samoa': 'Американское Самоа',
   'Anguilla': 'Ангилья',
   'Antarctica': 'Антарктида',
